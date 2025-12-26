@@ -1,0 +1,8 @@
+#Instalar a extensão para esse arquivo funcinar.
+
+# root: O editorconfig funciona para arquivos no nível do arquivo .editorconfig, então é preciso definir a raiz do editorconfig.
+root = True
+
+[*]
+indent_style = space
+indent_size = 2
